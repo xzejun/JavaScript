@@ -1,2 +1,2 @@
-# JavaScript
-js基础
+# javascript
+to learn javascript
